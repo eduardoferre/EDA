@@ -1,0 +1,20 @@
+PRINTF, escrever, anotar. Como estamos mexendo com arquivo temos tres opções:
+  ->fprintf
+  ->fputc
+  ->fputs
+
+  fprint = usamos quando temos os valores das variaveies, e queremos escrever no arquivo formatado
+  SINTAXE: frpintf(FILE *ptr, "variaveis", variaves);
+  
+  fputc = inserção de um unico caracter
+  SINTAXE: fputc(caracter, FILE *ptr)
+
+  fputs
+
+
+
+SCANF, ENTRADA, ARMAZENAR
+
+    ->fgetc(arquivo)
+    ->fscanf
+    ->fgets
